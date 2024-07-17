@@ -1,0 +1,6 @@
+DB_URL=mongodb+srv://shivamdubey:IamMahi07@cluster0.jvlvmfh.mongodb.net/chatGP?retryWrites=true&w=majority
+PORT=9000
+JWT_KEY="I@AM@USING@JWT"
+CLOUDINARY_NAME=dt8huk5be
+CLOUDINARY_API_KEY=251833462828273
+CLOUDINARY_API_SECRET=6lfjzBs-Avxrf6UE1ND9UiVNMZM
